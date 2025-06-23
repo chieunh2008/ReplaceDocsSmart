@@ -1,0 +1,16 @@
+C:\Users\chieu\source\repos\TemplateRewriterTool\TemplateRewriterTool\bin\Debug\net6.0-windows\TemplateRewriterTool.exe
+C:\Users\chieu\source\repos\TemplateRewriterTool\TemplateRewriterTool\bin\Debug\net6.0-windows\TemplateRewriterTool.deps.json
+C:\Users\chieu\source\repos\TemplateRewriterTool\TemplateRewriterTool\bin\Debug\net6.0-windows\TemplateRewriterTool.runtimeconfig.json
+C:\Users\chieu\source\repos\TemplateRewriterTool\TemplateRewriterTool\bin\Debug\net6.0-windows\TemplateRewriterTool.dll
+C:\Users\chieu\source\repos\TemplateRewriterTool\TemplateRewriterTool\bin\Debug\net6.0-windows\TemplateRewriterTool.pdb
+C:\Users\chieu\source\repos\TemplateRewriterTool\TemplateRewriterTool\obj\Debug\net6.0-windows\TemplateRewriterTool.MainForm.resources
+C:\Users\chieu\source\repos\TemplateRewriterTool\TemplateRewriterTool\obj\Debug\net6.0-windows\TemplateRewriterTool.csproj.GenerateResource.cache
+C:\Users\chieu\source\repos\TemplateRewriterTool\TemplateRewriterTool\obj\Debug\net6.0-windows\TemplateRewriterTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chieu\source\repos\TemplateRewriterTool\TemplateRewriterTool\obj\Debug\net6.0-windows\TemplateRewriterTool.AssemblyInfoInputs.cache
+C:\Users\chieu\source\repos\TemplateRewriterTool\TemplateRewriterTool\obj\Debug\net6.0-windows\TemplateRewriterTool.AssemblyInfo.cs
+C:\Users\chieu\source\repos\TemplateRewriterTool\TemplateRewriterTool\obj\Debug\net6.0-windows\TemplateRewriterTool.csproj.CoreCompileInputs.cache
+C:\Users\chieu\source\repos\TemplateRewriterTool\TemplateRewriterTool\obj\Debug\net6.0-windows\TemplateRewriterTool.dll
+C:\Users\chieu\source\repos\TemplateRewriterTool\TemplateRewriterTool\obj\Debug\net6.0-windows\refint\TemplateRewriterTool.dll
+C:\Users\chieu\source\repos\TemplateRewriterTool\TemplateRewriterTool\obj\Debug\net6.0-windows\TemplateRewriterTool.pdb
+C:\Users\chieu\source\repos\TemplateRewriterTool\TemplateRewriterTool\obj\Debug\net6.0-windows\TemplateRewriterTool.genruntimeconfig.cache
+C:\Users\chieu\source\repos\TemplateRewriterTool\TemplateRewriterTool\obj\Debug\net6.0-windows\ref\TemplateRewriterTool.dll
